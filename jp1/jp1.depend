@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1697968797 source:d:\users\ul0204422\desktop\jp\jezykiprogramowania\jp1\main.cpp
+1697971087 source:d:\users\ul0204422\desktop\jp\jezykiprogramowania\jp1\main.cpp
 	<iostream>
+	<string>
 
