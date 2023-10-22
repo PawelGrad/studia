@@ -55,6 +55,26 @@ int main()
         print("Silny mroz");
     }
 
+    int option;
+    cin >> option;
+
+    switch(option) {
+        case 1:
+            cout << "Opcja 1:";
+            break;
+        case 2:
+            cout << "Opcja 2:";
+            break;
+        case 3:
+            cout << "Opcja 3:";
+            break;
+        case 4:
+            cout << "Opcja 4:";
+            break;
+        default:
+            cout << "Nie ma!";
+            break;
+    }
 //    int tab[5];
 //    for (int i = 0; i < 5; i++) {
 //        cin >> tab[i];
@@ -64,12 +84,12 @@ int main()
 //        cout << i << endl;
 //    }
 
-    int tabSize;
-    cin >> tabSize;
-    int *arr = new int(tabSize);
-    for (int i = 0; i < tabSize - 1; i++) {
-        cin >> arr[i];
-    }
+//    int tabSize;
+//    cin >> tabSize;
+//    int *arr = new int(tabSize);
+//    for (int i = 0; i < tabSize - 1; i++) {
+//        cin >> arr[i];
+//    }
 
     return 0;
 }
