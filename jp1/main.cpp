@@ -75,21 +75,6 @@ int main()
             cout << "Nie ma!";
             break;
     }
-//    int tab[5];
-//    for (int i = 0; i < 5; i++) {
-//        cin >> tab[i];
-//    }
-
-//    for (int i : tab) {
-//        cout << i << endl;
-//    }
-
-//    int tabSize;
-//    cin >> tabSize;
-//    int *arr = new int(tabSize);
-//    for (int i = 0; i < tabSize - 1; i++) {
-//        cin >> arr[i];
-//    }
 
     return 0;
 }
