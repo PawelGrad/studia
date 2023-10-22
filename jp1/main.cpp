@@ -79,8 +79,10 @@ int main()
     return 0;
 }
 
-
 //1) napisz program sprawdzajacy czy z danych odcinkow da sie utworzyc trojkat
 
 //2) Znajdz miejsca zerowe funkcji y=ax^2+bx+c
+
+//3 Przelicznik walut na switch. kursy jako sta³e gbp/usd/eur
+
 
